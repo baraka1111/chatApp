@@ -1,0 +1,1 @@
+ C:\\Users\\egovridc\\StudioProjects\\chat_app\\.dart_tool\\flutter_build\\804e9dd9e8ed1d855c4c9c241d37bac9\\native_assets.yaml: 
