@@ -1,4 +1,4 @@
-#Thu Apr 10 14:50:44 EAT 2025
+#Thu Apr 10 15:31:29 EAT 2025
 base.0=C\:\\Users\\egovridc\\StudioProjects\\chat_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\egovridc\\StudioProjects\\chat_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\egovridc\\StudioProjects\\chat_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
